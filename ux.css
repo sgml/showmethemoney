@@ -1,0 +1,12 @@
+#container { width: 99%; display: block; text-align: justify; }
+object, .wedge { display: inline-block; }
+.wedge { width: 99%; }
+#fiats dt { line-height:2; }
+.donate_btn { cursor: pointer; 
+padding: 2px 10px; 
+background-color: #000; 
+color: #fff; 
+background: linear-gradient(rgb(102, 155, 225), rgb(87, 132, 191)) repeat scroll 0% 0% rgb(87, 132, 191);
+text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5);
+border-radius: 6px 6px 6px 6px; }
+#fiats dt:nth-child(odd) { background-color: #eee; }
