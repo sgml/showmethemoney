@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+  <USD>
+    <feedback>Make payment of: </feedback>
+    <appeal>&#x0024;</appeal>
+  </USD>
+  <JPY>
+    <feedback>Make payment of: </feedback>
+    <appeal>&#x00A5;</appeal>
+  </JPY>
+  <ARS>
+    <feedback>Make payment of: </feedback>
+    <appeal>&#x20B1;</appeal>
+  </ARS>
+  <CHF>
+    <feedback>Make payment of: </feedback>
+    <appeal>&#x20A3;</appeal>
+  </CHF>
+  <AUD>
+    <feedback>Make payment of: </feedback>
+    <appeal>&#x0024;</appeal>
+  </AUD>
+  <BGN>
+    <feedback>Make payment of: </feedback>
+    <appeal>лв</appeal>
+  </BGN>
+  <CZK>
+    <feedback>Make payment of: </feedback>
+    <appeal>Kč</appeal>
+  </CZK>
+</lang>
