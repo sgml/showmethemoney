@@ -2,6 +2,6 @@
 $dir = dirname( __FILE__ );
 require("$dir/CurrencyConverter.php"); 
 
-  $forex = new CurrencyConverter();
-  $forex.getRates('http://toolserver.org/~kaldari/rates.xml');
+  $forex = new CurrencyConverter('http://toolserver.org/~kaldari/rates.xml');
+  $forex->getRates();
 ?>
